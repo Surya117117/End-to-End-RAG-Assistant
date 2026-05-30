@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-vector-stores-qdrant
+llama-index-llms-groq
+qdrant-client
+sentence-transformers
+pypdf
+streamlit
